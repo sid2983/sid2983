@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sid2983
 - 👀 I’m interested in ...AI and Machine learning
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Various machine learning projects
+- 🌱 I’m currently learning ...Python and Web developement(Backend) using python.
+- 💞️ I’m looking to collaborate on ...Various machine learning and backend related projects.
 - 📫 How to reach me ...My email : sidx576@gmail.com
 
 <!---
