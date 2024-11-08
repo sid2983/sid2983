@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sid2983" alt="sid2983" /></a> </p>
 <br>
-- 🔭 I’m currently working on [MLOPS](https://github.com/sid2983/EndtoEnd-Gemstone-Price-Prediction-Pipeline)
+- 🔭 I’m currently working on [MLOPS]
 
 - 🌱 I’m currently learning **ML Operations , Large Language Models (LLMs)**
 
